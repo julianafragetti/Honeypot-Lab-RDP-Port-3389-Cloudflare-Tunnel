@@ -15,8 +15,7 @@ Assim que o túnel subiu, o terminal começou a registrar conexões imediatas. N
 * Scanners identificados via User-Agent `CheckHost`.
 
 ### 📽️ Demonstração em Vídeo
-*(Dica: Se você subiu o vídeo para o repositório com o nome "demo.mp4", coloque o link dele aqui)*
-![Demonstração do terminal apitando](video.mp4)
+O video está anexo
 
 ### 📝 Lições Aprendidas
 1. O tempo de descoberta de um serviço exposto é quase instantâneo.
