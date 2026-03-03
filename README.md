@@ -15,7 +15,11 @@ Assim que o túnel subiu, o terminal começou a registrar conexões imediatas. N
 * Scanners identificados via User-Agent `CheckHost`.
 
 ### 📽️ Demonstração em Vídeo
-O video está anexo
+### 📽️ Demonstração Prática (Honeypot em Ação)
+
+<video src="GravaçãoTelaHoneyPot.webm" controls="controls" style="max-width: 100%;">
+  Seu navegador não suporta o player de vídeo.
+</video>
 
 ### 📝 Lições Aprendidas
 1. O tempo de descoberta de um serviço exposto é quase instantâneo.
